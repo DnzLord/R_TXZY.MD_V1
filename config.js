@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285706735450'] 
-global.mods = ['6285706735450'] 
+global.owner = ['66855048169'] 
+global.mods = ['66855048169'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = ' verdihatoru dia si buaya darat'
-global.numberowner = '6285706735450'
-global.instagram = 'https://instagram.com/'
-global.github = 'https://github.com/verdihatorou'
+global.nameowner = 'Nan'
+global.numberowner = '66855048169'
+global.instagram = 'https://instagram.com/nan_sakrn'
+global.github = 'https://github.com/JakaNzk'
 global.dana = ''
 global.pulsa = ''
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Xziro'
+global.namebot = 'Self bot'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'hp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/nan_sakrn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© xziro'
+global.wm = '© Self bot'
 global.watermark = wm
-global.wm2 = '⫹⫺ xziro'
-global.wm3 = '© xziro'
+global.wm2 = '⫹⫺ Self bot'
+global.wm3 = '© Self bot'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
