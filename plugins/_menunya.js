@@ -293,7 +293,7 @@
 
 // //Listmenu//
 // if (teks == '404') {
-// let menuu = `*© RTXZY-MD*`
+// let menuu = `*© Self bot*`
 // const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         // listMessage: {
             // title: `${ucapan()} ${name}`,
