@@ -915,7 +915,7 @@ const fdoc = {
 
 //BAGIAN MENU KETIKA USER COMMAND/
 if (teks == '404') {
-let menuu = `*© BOTCAHX*\n> Runtime : ${uptime}\n> Tanggal : ${week} ${date}\n> Waktu : ${time}\n> Weton : ${weton}\n> Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
+let menuu = `*© BOTSattZzz*\n> Runtime : ${uptime}\n> Tanggal : ${week} ${date}\n> Waktu : ${time}\n> Weton : ${weton}\n> Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
@@ -1196,7 +1196,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(listmenu|list|\?)$/i
+handler.command = /^(menu|เมนู|listmenu|list|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
@@ -1245,4 +1245,3 @@ function ucapan() {
 
 
 //Boleh menggunakan menu mana saja yg nyaman aja :v
-
