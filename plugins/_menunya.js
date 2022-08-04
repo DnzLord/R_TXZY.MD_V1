@@ -293,12 +293,12 @@
 
 // //Listmenu//
 // if (teks == '404') {
-// let menuu = `*© Self bot*`
+// let menuu = `*© 10k manen*`
 // const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         // listMessage: {
             // title: `${ucapan()} ${name}`,
             // description: menuu,
-            // buttonText: 'LIST MENU',
+            // buttonText: '10K MANEN',
             // listType: 1,
             // footerText: "Jika menemukan bug,error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
             // mtype: 'listMessage',
@@ -309,15 +309,15 @@
                   // "description": "Untuk Melihat Kecepatan Download Bot",
                   // "rowId": `.speedtest`
                 // },{
-                  // "title": `OWNER`,
+                  // "title": `SEWA BOT 10K PERMANEN`,
                   // "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
                   // "rowId": `.owner`
                 // },{
-                  // "title": "INFO BOT",
+                  // "title": "BOT ON 24JAM NONSTOP",
                   // "description": "Menampilkan Menu Info",
                   // "rowId": `${_p}? info`
                 // },{
-                  // "title": "GROUP BOT",
+                  // "title": "GAK SEWA GAK KEREN",
                   // "description": "Join Grup Bot Untuk Mengetahui Update Terbaru",
                   // "rowId": `#gcbot`
                 // }],
@@ -915,14 +915,14 @@ const fdoc = {
 
 //BAGIAN MENU KETIKA USER COMMAND/
 if (teks == '404') {
-let menuu = `*© BOTCAHX*\n> Runtime : ${uptime}\n> Tanggal : ${week} ${date}\n> Waktu : ${time}\n> Weton : ${weton}\n> Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
+let menuu = `*© 10k manen*\n> Runtime : ${uptime}\n> Tanggal : ${week} ${date}\n> Waktu : ${time}\n> Weton : ${weton}\n> Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Note: Ⓛ = Limit Ⓟ = Premium",
+            footerText: "Note: Ⓛ = Limit Ⓟ = Premium\nSewa bot 10k permanen",
             mtype: 'listMessage',
             sections: [
               {
@@ -1196,12 +1196,13 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(listmenu|list|\?)$/i
+handler.command = /^(menu|listmenu|list|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
+handler.register = true
 
 handler.admin = false
 handler.botAdmin = false
