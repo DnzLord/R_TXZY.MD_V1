@@ -13,20 +13,20 @@ global.pulsa = ''
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Self bot'
+global.namebot = '10k manen'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://instagram.com/nan_sakrn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '10k manen'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Self bot'
+global.wm = '© 10k manen'
 global.watermark = wm
-global.wm2 = '⫹⫺ Self bot'
-global.wm3 = '© Self bot'
+global.wm2 = '⫹⫺ 10k manen'
+global.wm3 = '© 10k manen'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -37,8 +37,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.packname = 'yang nyolong'
+global.author = 'di penjara:b'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
