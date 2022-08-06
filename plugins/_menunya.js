@@ -922,7 +922,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Note: Ⓛ = Limit Ⓟ = Premium\nSewa bot 10k permanen",
+            footerText: "Note: Ⓛ = Limit Ⓟ = Premium\nBot ini 100% gratis\nJika ada yang menjualnya, jangan percaya!",
             mtype: 'listMessage',
             sections: [
               {
