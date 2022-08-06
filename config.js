@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['66855048169'] 
-global.mods = ['66855048169'] 
+global.owner = ['6282291806573'] 
+global.mods = ['6282291806573'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Nan'
-global.numberowner = '66855048169'
+global.nameowner = 'Alya cantik:v'
+global.numberowner = '6282291806573'
 global.instagram = 'https://instagram.com/nan_sakrn'
 global.github = 'https://github.com/JakaNzk'
 global.dana = ''
@@ -13,20 +13,20 @@ global.pulsa = ''
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = '10k manen'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+global.namebot = 'FreeBotZ By Alya'
+global.gc = 'https://chat.whatsapp.com/B6m4rqMtZjCD0EAlcEnJoU'
 global.web = 'https://instagram.com/nan_sakrn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '10k manen'
+global.price1 = 'Bot ini gratis'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© 10k manen'
+global.wm = '© FreeBotZ By Alya'
 global.watermark = wm
-global.wm2 = '⫹⫺ 10k manen'
-global.wm3 = '© 10k manen'
+global.wm2 = '⫹⫺ FreeBotZ By Alya'
+global.wm3 = '© FreeBotZ By Alya'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
