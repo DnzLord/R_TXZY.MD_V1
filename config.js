@@ -37,8 +37,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'yang nyolong'
-global.author = 'di penjara:b'
+global.packname = 'Yang Nyolong'
+global.author = 'Pacarnya Alya'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
