@@ -915,14 +915,14 @@ const fdoc = {
 
 //BAGIAN MENU KETIKA USER COMMAND/
 if (teks == '404') {
-let menuu = `*© FreebotZ By Alya*\n> Runtime : ${uptime}\n> Tanggal : ${week} ${date}\n> Waktu : ${time}\n> Weton : ${weton}\n> Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB\nJoin dong\nhttps://chat.whatsapp.com/B6m4rqMtZjCD0EAlcEnJoU`
+let menuu = `*© DnzBotz*\n> Runtime : ${uptime}\n> Tanggal : ${week} ${date}\n> Waktu : ${time}\n> Weton : ${weton}\n> Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB\nSewa bot 10k permanen\nHubungi wa.me/6282291806573`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Note: Ⓛ = Limit Ⓟ = Premium\nBot ini 100% gratis\nJika ada yang menjualnya, jangan percaya!",
+            footerText: "Note: Ⓛ = Limit Ⓟ = Premium\nBot ini Sudah Tidak gratis\nJika mau bot nya tetap di grup kamu, silahkan tf 10k\nBot nya akan Di grup kamu selamanya..",
             mtype: 'listMessage',
             sections: [
               {
@@ -1202,7 +1202,7 @@ handler.mods = false
 handler.premium = false
 handler.group = false
 handler.private = false
-handler.register = true
+handler.register = false
 
 handler.admin = false
 handler.botAdmin = false
